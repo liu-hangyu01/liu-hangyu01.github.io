@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Huabing Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2025 21:43:59 +0800</lastBuildDate>
     <atom:link href="https://zhaohuabing.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to Jekyll!</title>
+      <link>https://zhaohuabing.com/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Thu, 22 May 2025 21:43:59 +0800</pubDate>
+      <guid>https://zhaohuabing.com/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <description>&lt;p&gt;第一篇博客，测试测试测试测试测试&#xA;11111&lt;/p&gt;</description>
+    </item>
     <item>
       <title>An Example Post</title>
       <link>https://zhaohuabing.com/post/first-post/</link>
