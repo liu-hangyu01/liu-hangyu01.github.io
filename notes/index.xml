@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on Miles的笔记本</title>
+    <link>https://liu-hangyu01.github.io/notes/</link>
+    <description>Recent content in Notes on Miles的笔记本</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 28 May 2025 10:52:26 +0800</lastBuildDate>
+    <atom:link href="https://liu-hangyu01.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>标题待定</title>
+      <link>https://liu-hangyu01.github.io/notes/%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Wed, 28 May 2025 10:52:26 +0800</pubDate>
+      <guid>https://liu-hangyu01.github.io/notes/%E7%AC%94%E8%AE%B0/</guid>
+      <description>这是一段摘要内容，用于预览或 SEO。</description>
+    </item>
+  </channel>
+</rss>

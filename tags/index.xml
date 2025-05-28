@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Miles的笔记本</title>
+    <link>https://liu-hangyu01.github.io/tags/</link>
+    <description>Recent content in Tags on Miles的笔记本</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 28 May 2025 10:57:39 +0800</lastBuildDate>
+    <atom:link href="https://liu-hangyu01.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>标签1</title>
+      <link>https://liu-hangyu01.github.io/tags/%E6%A0%87%E7%AD%BE1/</link>
+      <pubDate>Wed, 28 May 2025 10:57:39 +0800</pubDate>
+      <guid>https://liu-hangyu01.github.io/tags/%E6%A0%87%E7%AD%BE1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>标签2</title>
+      <link>https://liu-hangyu01.github.io/tags/%E6%A0%87%E7%AD%BE2/</link>
+      <pubDate>Wed, 28 May 2025 10:57:39 +0800</pubDate>
+      <guid>https://liu-hangyu01.github.io/tags/%E6%A0%87%E7%AD%BE2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>段永平</title>
+      <link>https://liu-hangyu01.github.io/tags/%E6%AE%B5%E6%B0%B8%E5%B9%B3/</link>
+      <pubDate>Sat, 26 Apr 2025 06:00:00 +0800</pubDate>
+      <guid>https://liu-hangyu01.github.io/tags/%E6%AE%B5%E6%B0%B8%E5%B9%B3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>努力</title>
+      <link>https://liu-hangyu01.github.io/tags/%E5%8A%AA%E5%8A%9B/</link>
+      <pubDate>Thu, 24 Apr 2025 10:47:00 +0800</pubDate>
+      <guid>https://liu-hangyu01.github.io/tags/%E5%8A%AA%E5%8A%9B/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

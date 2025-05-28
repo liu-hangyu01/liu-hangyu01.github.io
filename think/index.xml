@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thinks on Miles的笔记本</title>
+    <link>https://liu-hangyu01.github.io/think/</link>
+    <description>Recent content in Thinks on Miles的笔记本</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 28 May 2025 10:57:39 +0800</lastBuildDate>
+    <atom:link href="https://liu-hangyu01.github.io/think/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>标题待定</title>
+      <link>https://liu-hangyu01.github.io/think/%E6%9C%AA%E5%91%BD%E5%90%8D/</link>
+      <pubDate>Wed, 28 May 2025 10:57:39 +0800</pubDate>
+      <guid>https://liu-hangyu01.github.io/think/%E6%9C%AA%E5%91%BD%E5%90%8D/</guid>
+      <description>这是一段摘要内容，用于预览或 SEO。</description>
+    </item>
+  </channel>
+</rss>
